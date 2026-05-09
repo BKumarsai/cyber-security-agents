@@ -155,4 +155,4 @@ if run_button:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
-st.markdown("Built with ❤️ using **Groq AI** + **Streamlit** | ⚠️ For educational use only")
+st.markdown(" 🛡️ **Cyber Security LLM Agents**  | ⚠️ For educational use only")
