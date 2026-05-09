@@ -13,7 +13,7 @@ sys.path.insert(0, current_dir)
 
 import streamlit as st
 st.set_page_config(
-    page_title="Cyber Security LLM Agents",
+    page_title="Cyber Security AI-Agents",
     page_icon="🛡️",
     layout="wide",
 )
