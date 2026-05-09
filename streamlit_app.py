@@ -25,7 +25,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<p class="title-style">🛡️ Cyber Security LLM Agents</p>', unsafe_allow_html=True)
+st.markdown('<p class="title-style">🛡️ Cyber Security AI-Agents</p>', unsafe_allow_html=True)
 st.markdown("**AI-powered multi-agent framework for cybersecurity research**")
 st.divider()
 
