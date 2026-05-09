@@ -155,4 +155,4 @@ if run_button:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
-st.markdown(" 🛡️ **Cyber Security LLM Agents**  | ⚠️ For educational use only")
+st.markdown(" 🛡️ **Cyber Security AI-Agents**  | ⚠️ For educational use only")
